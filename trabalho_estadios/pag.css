@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+  }
+  
+  a {text-decoration: none;}
+  
+  .pag {margin: auto;
+    width: 1000px;
+    .texto{
+        font-family:'Open Sans', sans-serif;
+        position: static;
+        background-color: #fff;
+        text-align:right;
+        top: 100px;
+        width: 400px;
+        line-height: 30px;
+        height: 30px;
+        
+        }
+       
+        #p{
+        text-align: justify;
+        }
+  
